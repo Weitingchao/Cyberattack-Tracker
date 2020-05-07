@@ -27,7 +27,7 @@ In this project, I try to gather and clean data regarding cyber attacks happenin
     - *state_cat* : I identify the sponsor of a incident as cyber super power if it is China, United States, or Russian Federation , middle power otherwise.   
 #### Results/  
 01 Trend 
-    - 01_plots.jpeg: Present a general trend of cyberattacks over time.  
+    - *01_plots.jpeg*: Present a general trend of cyberattacks over time.  
 02 Type 
     - 02_-1_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in total numbers. 
     - 02-2_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in percentage. 
