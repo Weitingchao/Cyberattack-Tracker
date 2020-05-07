@@ -14,6 +14,7 @@ In this project, I try to gather and clean data regarding cyber attacks happenin
 #### Data/  
 1. 01_cyberdata: Cyber Operations Tracker,  available here: https://www.cfr.org/interactive/cyber-operations  
 2. 02_cyber_2_cleaned: The cleanded data, with following variables: 
+    - *Title*: 
   -*Title*: the title of the incident 
   -*Date*: Date of the incident
   -*Affiliations*:  
