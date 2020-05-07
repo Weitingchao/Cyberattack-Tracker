@@ -28,13 +28,10 @@ In this project, I try to gather and clean data regarding cyber attacks happenin
 #### Results/  
 ##### Trend 
 01_plots.jpeg*: Present a general trend of cyberattacks over time.  
-
------------------------
-
 ##### Type 
-02_-1_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in total numbers. 
-02-2_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in percentage. 
-02-3_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in sum numbers.  
+02_-1_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in total numbers.   
+02-2_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in percentage.   
+02-3_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in sum numbers.    
 02-4_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in percentages.    
 
 -------------------------------------------------
