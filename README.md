@@ -26,4 +26,19 @@ In this project, I try to gather and clean data regarding cyber attacks happenin
     - *Year*: year state_victim: yes if the victim is categorized as civil society, government, or military. 
     - *state_cat* : I identify the sponsor of a incident as cyber super power if it is China, United States, or Russian Federation , middle power otherwise.   
 #### Results/  
-01 Trend 01_plots.jpeg: Present a general trend of cyberattacks over time.  02 Type 02_-1_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in total numbers. 02-2_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in percentage. 02-3_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in sum numbers.  02-4_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in percentages.  03 Sponsor 03_-1_plots.jpeg: Summarized sponsors of cyber incidents 03_-2_plots.jpeg: Summarized top five soponsors and presents in percentages.   04 Frequency 04_-1_plots.jpeg: Demostrates the day gap of every cyber attackes. 04_-2_plots.jpeg: Demostrates the day gap of every cyber attackes which top 5 sponsors launched.  ## More Information I am welcome to any comments or suggestions, feel free to contact me via mail: `weitin.chao111@gmail.com`
+01 Trend 
+    - 01_plots.jpeg: Present a general trend of cyberattacks over time.  
+02 Type 
+    - 02_-1_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in total numbers. 
+    - 02-2_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019, presented in percentage. 
+    - 02-3_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in sum numbers.  
+    - 02-4_plots.jpeg: Summarizes types of cyber incidents happening between 2005-2019 and groups by every four years,  presented in percentages.  
+03 Sponsor 
+    - 03_-1_plots.jpeg: Summarized sponsors of cyber incidents 
+    - 03_-2_plots.jpeg: Summarized top five soponsors and presents in percentages.   
+04 Frequency 
+    - 04_-1_plots.jpeg: Demostrates the day gap of every cyber attackes. 
+    - 04_-2_plots.jpeg: Demostrates the day gap of every cyber attackes which top 5 sponsors launched.  
+
+## More Information 
+I am welcome to any comments or suggestions, feel free to contact me via mail: `weitin.chao111@gmail.com`
