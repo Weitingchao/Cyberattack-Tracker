@@ -1,4 +1,4 @@
-# ps239t-final-project
+# Cyber Observer
 ## Short Description 
 In this project, I try to gather and clean data regarding cyber attacks happening from 2005 to 2019. My goal is to do some analysis and visualization.  For the first part, I clean the data by selecting the interested column, sepearating columns (The "Response" column), and adding a few more columns for later analysis. For example, I add logical variable to categorize state power and whether the cyberattack is sponsored by multiple countries. I also wonder how the frequency, so make another short table to record the time gap between each sponsors by selected states.  After these prepossesses, I am able to conduct some analysis and try to answer my research questions.   Finally, I present those findings with ggplot2 plots.   
 ## Dependencies 
